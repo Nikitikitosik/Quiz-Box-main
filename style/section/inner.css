@@ -1,0 +1,10 @@
+.inner {
+   margin-top: 60px;
+}
+
+.inner__title {
+   font-weight: 700;
+   font-size: 48px;
+   color: black;
+}
+

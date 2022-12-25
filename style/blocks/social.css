@@ -1,0 +1,67 @@
+.social {
+   margin-left: 30px;
+}
+
+
+.social__list {
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.social__item:not(:first-child) {
+   margin-left: 10px;
+}
+
+.social__icon {
+   width: 36px;
+   height: 36px;
+}
+
+.social__link-tg {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/t.png);
+}
+
+.social__link-tg:hover {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/icon-hover.png) -10px -10px;
+}
+
+.social__link-vk {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/vk.png);
+}
+
+.social__link-vk:hover {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/icon-hover.png) -66px -10px;
+}
+
+.social__link-f {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/facebook\ 1.png);
+}
+
+.social__link-f:hover {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/icon-hover.png) -122px -10px;
+}
+
+.social__link-t {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/in.png);
+}
+
+.social__link-t:hover {
+   width: 36px;
+   height: 36px;
+   background: url(../../img/icon-hover.png) -178px -10px;
+}

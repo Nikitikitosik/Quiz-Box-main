@@ -1,0 +1,15 @@
+.navigation {
+   margin-left: 15px;
+}
+
+.navigation__list {
+   display: flex;
+   justify-content: space-between;
+   width: 295px;
+}
+
+
+.navigation__item:hover {
+   color: #8F00FF;
+	transition: 0.4s;
+}

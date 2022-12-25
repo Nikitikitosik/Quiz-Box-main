@@ -1,0 +1,34 @@
+.selection {
+   position: relative;
+   margin-top: 93px;
+   background-color: black;
+   width: 1920px;
+   height: 363px;
+}
+
+/* .selection::after {
+   position: absolute;
+   content: "";
+   background-image: url(../../img/icon_reviews.png);
+   background-repeat: no-repeat;
+   margin-top: -363px;
+   width: 630px;
+   height: 630px;
+} */
+
+.selection__content {
+   display: flex;
+   align-items: center;
+
+}
+
+.selection__title {
+   font-weight: 700;
+   font-size: 48px;
+   width: 42%;
+   margin-left: -170px;
+}
+
+.selection__icon {
+margin-left: 100px;
+}
